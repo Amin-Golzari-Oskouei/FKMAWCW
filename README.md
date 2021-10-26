@@ -15,4 +15,4 @@ Comments are written for all steps of the algorithm for better understanding the
 
 2) Please do not distribute the database or source codes to others without the authorization from Dr. Amin Golzari Oskouei (first Author).
 
-Author’ Email: a.golzari@tabrizu.ac.ir (A. Golzari Oskouei).
+Author’ Email: a.golzari[at]tabrizu.ac.ir (A. Golzari Oskouei).
