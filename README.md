@@ -1,7 +1,7 @@
 # FKMAWCW: Categorical Fuzzy k-Modes Clustering with Automated Attribute-weight and Cluster-weight Learning
 
 The Source_Code.rar file includes the MATLAB implementation of the FKMAWCW algorithm presented in:
-A.Golzari oskouei, M.Balafari, C.Motamed "FKMAWCW: Categorical Fuzzy k-Modes Clustering with Automated Attribute-weight and Cluster-weight Learning", Chaos, Solitons & Fractals, 2021.
+A. Golzari Oskouei, M. A. Balafar, and C. Motamed, "FKMAWCW: Categorical fuzzy k-modes clustering with automated attribute-weight and cluster-weight learning," Chaos, Solitons & Fractals, vol. 153, p. 111494, 2021/12/01/ 2021, doi: https://doi.org/10.1016/j.chaos.2021.111494.
 
 Comments are written for all steps of the algorithm for better understanding the code. Also, a demo is implemented for ease of running, which runs by importing the data and other necessary algorithm parameters.
 
