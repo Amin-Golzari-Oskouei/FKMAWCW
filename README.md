@@ -13,6 +13,6 @@ Comments are written for all steps of the algorithm for better understanding the
 
 [2] M. Hashemzadeh, A. Golzari Oskouei, and N. Farajzadeh, "New fuzzy C-means clustering method based on feature-weight and cluster-weight learning," Applied Soft Computing, vol. 78, pp. 324-345, 2019/05/01/ 2019, doi: https://doi.org/10.1016/j.asoc.2019.02.038.2
 
-2) Please do not distribute the database or source codes to others without the authorization from Dr. Amin Golzari Oskouei (first Author).
+2) Please do not distribute the dataset or source codes to others without the authorization from Dr. Amin Golzari Oskouei (first Author).
 
 Author’ Email: a.golzari[at]tabrizu.ac.ir (A. Golzari Oskouei).
